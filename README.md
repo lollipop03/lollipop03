@@ -2,7 +2,7 @@
 
 ### Junseo Park - @lollipop03
 
-👋 Hello! And Welcome! I'm Junseo Park and I'm a student in the Department of Computer Science at the University of Seoul. Currently, I'm interested in Compititive Programming/Problem Solving and making web game on React JS.
+👋 Hello! And Welcome! I'm Junseo Park and I'm a student in the Department of Computer Science(CSE) at the University of Seoul. Currently, I'm interested in Compititive Programming/Problem Solving and making web game on React JS.
 
 I'm interested in many topics including Machine Learning, programming language theory, and algorithms.
 
